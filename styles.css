@@ -1,0 +1,15 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f3f3f3;
+    color: #4e76a4;   
+
+}
+
+a:link {
+    color: #6182a9; 
+    text-decoration-style: dotted;
+}
+
+a:hover {
+    background-color: white;
+}
